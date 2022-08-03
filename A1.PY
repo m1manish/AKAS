@@ -1,1 +1,2 @@
-PRINT ("JAVA")
+PRINT("JAVA")
+print("welcome")
